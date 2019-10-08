@@ -1,5 +1,10 @@
 # This project will cover TDD: Test Driven Developement :taco:
 
+## Two frameworks:
+- Unittest
+- Pytest
+
+
 Benefits of TDD:
 - Simple code
 - Atomic
@@ -12,6 +17,11 @@ Benefits of TDD:
 ## Set up
 To get started, do
 
-    xyaz and bbc
+    xyaz and abc
+    then lmnop
+    
 
 ## Running tests
+    
+    pytest specs_101.py
+    
